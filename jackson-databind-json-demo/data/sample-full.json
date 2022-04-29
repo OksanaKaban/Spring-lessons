@@ -1,0 +1,16 @@
+{
+  "id": 14,
+  "firstName": "Jonas",
+  "lastName": "Jonaitis",
+  "active": true,
+  "address": {
+    "street": "Savanoriu pr.",
+    "city": "Kaunas",
+    "state": null,
+    "zip": "12345",
+    "country": "LT"
+  },
+  "languages": ["java", "C#", "python", "javascript"],
+  "company": "UAB"
+
+}
